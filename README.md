@@ -1,49 +1,64 @@
-## Hi 👋 I'm Krishna Shrivastava  
+# Hi, I'm Krishna 👋
 
-🎓 Engineering Student | 🤖 Robotics & Embedded Systems Enthusiast  
-🔧 I build real-world hardware & software projects using **ESP32, Arduino, Raspberry Pi & Sensors**
-
----
-
-### 🛠️ Tech Stack
-- **Microcontrollers:** ESP32, ESP32-S3, Arduino UNO/Nano, Reaspberry pi  
-- **Programming:** C, C++, Embedded C, Python  
-- **Hardware:** L293D, DC Gear Motors, Sensors, TFT Displays  
-- **Communication:** Wi-Fi, Bluetooth, UART, I2C, SPI  
+🚀 Technology-oriented engineering student at Madhav Institute of Technology, Gwalior  
+💻 C++ | Python | AI & Machine Learning Learner  
+🧠 Passionate about building smart software and solving real-world problems through code  
 
 ---
 
-### 🚀 Projects
-- 🤖 Voice Controlled Robot (ESP32 + Bluetooth)
-- 👀 Face Detection Robot (ESP32-CAM)
-- 📟 TFT Display Interface Projects
-- ⚙️ Motor Control & Sensor-based Automation
+## 👨‍💻 About Me
 
-👉 *More projects coming soon…*
+I’m a software-focused engineering student who enjoys turning ideas into working systems using **C++ and Python**, while actively exploring **Artificial Intelligence and Machine Learning**.
+
+I learn best by building — experimenting with projects, breaking things, fixing them, and growing stronger with every iteration. I’m especially interested in **software development, intelligent systems, and data-driven technologies**, and I’m always looking for opportunities to collaborate and improve.
 
 ---
 
-### 🏆 Goal
-To become a **top Robotics & Embedded Systems Engineer** and win **college project competitions**.
+## 🛠️ Tech Stack
+
+**Languages:**  
+- C++  
+- Python  
+
+**Core Skills:**  
+- Data Structures & Algorithms  
+- Object-Oriented Programming  
+- Problem Solving  
+- Software Design  
+
+**Currently Learning:**  
+- Machine Learning  
+- Artificial Intelligence  
+- System Design  
+
+**Tools:**  
+- Git & GitHub  
+- VS Code  
+- Linux (Basics)  
 
 ---
 
-### 📫 Contact Me
-- 📧 Email: shrivastavakrishna000@gmail.com
-- 🌐 GitHub: https://github.com/KrishnaShrivastavaworks
+## 🚀 What I'm Working On
 
+- Building clean, efficient C++ and Python projects  
+- Practicing DSA and competitive programming  
+- Learning and applying ML concepts in real projects  
+- Creating software solutions to real-world problems  
 
-<!--
-**KrishnaShrivastavaworks/KrishnaShrivastavaworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📈 Goals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Become a strong software engineer in AI-powered systems  
+- Contribute to open-source projects  
+- Build impactful, scalable software products  
+
+---
+
+## 🤝 Let's Connect
+
+- LinkedIn: www.linkedin.com/in/krishna-shrivastava-in
+- Gmail: shrivastavakrishna000@gmail.com
+- 
+
+⭐ Feel free to explore my repositories and connect — always open to learning and collaboration!
