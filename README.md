@@ -1,7 +1,7 @@
 # Hi, I'm Krishna 👋
 
 🚀 Technology-oriented engineering student at Madhav Institute of Technology, Gwalior  
-💻 C++ | Python | AI & Machine Learning Learner  
+💻 C++ | Python | AI & Machine Learning
 🧠 Passionate about building smart software and solving real-world problems through code  
 
 ---
@@ -40,7 +40,7 @@ I learn best by building — experimenting with projects, breaking things, fixin
 
 ## 🚀 What I'm Working On
 
-- Building clean, efficient C++ and Python projects  
+- Building clean, efficient AI ML and Python projects  
 - Practicing DSA and competitive programming  
 - Learning and applying ML concepts in real projects  
 - Creating software solutions to real-world problems  
