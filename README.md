@@ -34,7 +34,8 @@ I learn best by building — experimenting with projects, breaking things, fixin
 **Tools:**  
 - Git & GitHub  
 - VS Code  
-- Linux (Basics)  
+- Linux (Basics)
+- Jupyter Notebook  
 
 ---
 
