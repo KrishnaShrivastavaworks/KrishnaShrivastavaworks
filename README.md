@@ -36,7 +36,8 @@ I learn best by building — experimenting with projects, breaking things, fixin
 - Git & GitHub  
 - VS Code  
 - Linux (Basics)
-- Jupyter Notebook  
+- Jupyter Notebook
+- MY SQL Workbench
 
 ---
 
