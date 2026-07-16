@@ -30,7 +30,7 @@ I learn best by building — experimenting with projects, breaking things, fixin
 **Currently Learning:**  
 - Machine Learning  
 - Artificial Intelligence  
-- System Design  
+- DEEP LEARNING 
 
 **Tools:**  
 - Git & GitHub  
