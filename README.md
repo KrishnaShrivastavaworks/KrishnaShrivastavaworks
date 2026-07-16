@@ -23,7 +23,8 @@ I learn best by building — experimenting with projects, breaking things, fixin
 **Core Skills:**  
 - Data Structures & Algorithms  
 - Data science
-- Data analysis    
+- Data analysis
+- MY SQL
 - Software Design  
 
 **Currently Learning:**  
