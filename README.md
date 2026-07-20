@@ -21,7 +21,7 @@ I learn best by building — experimenting with projects, breaking things, fixin
 - Python  
 
 **Core Skills:**  
-- Data Structures & Algorithms  
+- Machine Learning
 - Data science
 - Data analysis
 - MY SQL
