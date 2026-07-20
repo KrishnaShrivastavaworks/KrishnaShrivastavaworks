@@ -28,7 +28,6 @@ I learn best by building — experimenting with projects, breaking things, fixin
 - Software Design  
 
 **Currently Learning:**  
-- Machine Learning  
 - Artificial Intelligence  
 - DEEP LEARNING 
 
