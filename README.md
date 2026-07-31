@@ -1,7 +1,7 @@
 # Hi, I'm Krishna Shrivastava
 
 🚀 Electrical and computer engineering student at Madhav Institute of Technology, Gwalior  
-💻 C++ | Python | AI & Machine Learning | Data science and Data analysis
+💻 C++ | Python | AI & Machine Learning | Data science and Data analysis, MY SQL
 🧠 Passionate about building smart software and solving real-world problems through code  
 
 ---
