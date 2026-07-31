@@ -1,4 +1,4 @@
-# Hi, I'm Krishna 👋
+# Hi, I'm Krishna Shrivastava
 
 🚀 Technology-oriented engineering student at Madhav Institute of Technology, Gwalior  
 💻 C++ | Python | AI & Machine Learning | Data science and Data analysis
