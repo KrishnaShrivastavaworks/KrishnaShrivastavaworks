@@ -46,7 +46,7 @@ I learn best by building — experimenting with projects, breaking things, fixin
 
 - Building clean, efficient AI ML and Python projects  
 - Practicing DSA and competitive programming  
-- Learning and applying ML concepts in real projects  
+- Learning and applying ML and DL concepts in real projects  
 - Creating software solutions to real-world problems  
 
 ---
