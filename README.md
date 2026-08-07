@@ -37,6 +37,8 @@ I learn best by building — experimenting with projects, breaking things, fixin
 - Linux (Basics)
 - Jupyter Notebook
 - MY SQL Workbench
+- Power BI
+- Tableau
 
 ---
 
