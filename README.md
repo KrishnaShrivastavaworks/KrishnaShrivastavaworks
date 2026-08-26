@@ -18,7 +18,8 @@ I learn best by building — experimenting with projects, breaking things, fixin
 
 **Languages:**  
 - C++  
-- Python  
+- Python
+- MY SQL
 
 **Core Skills:**  
 - Machine Learning
